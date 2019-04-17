@@ -1,0 +1,30 @@
+{
+    "name": "ESZ Package 1",
+    "description": "Best for low vgrabs",
+    "dsp_json_uri": ""
+    "logo":{
+      "logo_256":"https://github.com/EOShenzhen/website/blob/master/256.png",
+      "logo_1024":"https://github.com/EOShenzhen/website/blob/master/1024.png",
+      "logo_svg":"https://github.com/EOShenzhen/website/blob/master/logo.svg"
+    },
+    "service_level_agreement": {
+        "availability":{
+            "uptime_9s": 5
+        },
+        "performance":{
+            "95": 500,
+        }
+    },
+    "pinning":{
+        "ttl": 2400,
+        "public": false
+    },
+    "locations":[
+        {
+    	  "name": "Shenzhen, Guangdong",
+      	  "country": "China",
+	  "latitude": 22.5431,
+	  "longitude": 114.0683
+        }
+    ]
+}
