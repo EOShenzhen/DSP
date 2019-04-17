@@ -3,9 +3,9 @@
     "description": "Best for low vgrabs",
     "dsp_json_uri": "",
     "logo": {
-      "logo_256":"https://github.com/EOShenzhen/website/blob/master/256.png",
-      "logo_1024":"https://github.com/EOShenzhen/website/blob/master/1024.png",
-      "logo_svg":"https://github.com/EOShenzhen/website/blob/master/logo.svg"
+      "logo_256":"https://raw.githubusercontent.com/EOShenzhen/website/master/256.png",
+      "logo_1024":"https://raw.githubusercontent.com/EOShenzhen/website/master/1024.png",
+      "logo_svg":"https://github.com/EOShenzhen/website/blob/master/logo.svg?raw=true"
     },
     "service_level_agreement": {
         "availability":{
