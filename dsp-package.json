@@ -2,7 +2,7 @@
     "name": "ESZ Package 1",
     "description": "Best for low vgrabs",
     "dsp_json_uri": ""
-    "logo":{
+    "logo": {
       "logo_256":"https://github.com/EOShenzhen/website/blob/master/256.png",
       "logo_1024":"https://github.com/EOShenzhen/website/blob/master/1024.png",
       "logo_svg":"https://github.com/EOShenzhen/website/blob/master/logo.svg"
